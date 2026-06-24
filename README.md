@@ -225,4 +225,12 @@ For my current career transition, this project is useful evidence of practical J
 
 ## License
 
-No formal open-source license has been specified. This repository is published for educational and portfolio demonstration purposes.
+## License
+
+This project is released under the MIT License.
+
+The repository contains the final submitted version of a university group project developed by Group 14 (Xianglong Liu, Jean, Qun, Shreya).
+
+The source code is shared primarily for educational, portfolio, and demonstration purposes.
+
+See the LICENSE file for details.
